@@ -7,14 +7,17 @@ Use this tool like this:
 
 [[hub-measurement-photo.jpg]]
 
-Here we have a 135mm
+Here we have a 135mm hub.
 
-The [[hub-measurement.slvs][final design]] was made in [[https://solvespace.com/index.pl][solvespace]]:
+The [[hub-measurement.slvs][final design]] was made in [[https://solvespace.com/index.pl][solvespace]]. The .svg ready to be cut:
 
 [[hub-measurement.svg]]
 
-A [[hub-measurement.FCStd][version of the design]] was made using [[https://www.freecad.org/][FreeCAD]] as well. An [[separate-pieces/][earlier design]] was
-made to produce a different measurement bracket for each hub size.
+Here I cut the text at half-depth.
+
+A [[hub-measurement.FCStd][version of the design]] was made using [[https://www.freecad.org/][FreeCAD]] as well; this had trouble
+exporting the text in a usable way. An [[separate-pieces/][earlier design]] was made to produce a
+different measurement bracket for each hub size.
 
 Copyright: 2025 Dima Kogan <dima@secretsauce.net>. Distributed under the
 [[https://creativecommons.org/licenses/by-sa/4.0/][CC-BY-SA license]].
