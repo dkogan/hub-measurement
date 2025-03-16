@@ -1,0 +1,20 @@
+This is a tool for measuring the hub spacing in a bicycle wheel. There are
+several common standards for rear hubs, and this makes it easy to quickly figure
+out what kind of hub we have. Common standards are described on [[https://www.sheldonbrown.com/frame-spacing.html][Sheldon Brown's
+page]].
+
+Use this tool like this:
+
+[[hub-measurement-photo.jpg]]
+
+Here we have a 135mm
+
+The [[hub-measurement.slvs][final design]] was made in [[https://solvespace.com/index.pl][solvespace]]:
+
+[[hub-measurement.svg]]
+
+A [[hub-measurement.FCStd][version of the design]] was made using [[https://www.freecad.org/][FreeCAD]] as well. An [[separate-pieces/][earlier design]] was
+made to produce a different measurement bracket for each hub size.
+
+This is Copyright: 2025 Dima Kogan <dima@secretsauce.net>. Distributed under the
+[[https://creativecommons.org/licenses/by-sa/4.0/][CC-BY-SA license]].
