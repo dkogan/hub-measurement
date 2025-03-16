@@ -16,5 +16,5 @@ The [[hub-measurement.slvs][final design]] was made in [[https://solvespace.com/
 A [[hub-measurement.FCStd][version of the design]] was made using [[https://www.freecad.org/][FreeCAD]] as well. An [[separate-pieces/][earlier design]] was
 made to produce a different measurement bracket for each hub size.
 
-This is Copyright: 2025 Dima Kogan <dima@secretsauce.net>. Distributed under the
+Copyright: 2025 Dima Kogan <dima@secretsauce.net>. Distributed under the
 [[https://creativecommons.org/licenses/by-sa/4.0/][CC-BY-SA license]].
